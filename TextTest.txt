@@ -15,3 +15,4 @@ Sal y pimienta al gusto
 3 manzanas
 2 zanahorias
 5 platanos
+10 panes
